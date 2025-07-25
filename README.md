@@ -41,7 +41,7 @@ Manual power control causes:
 ## Schematic & PCB
 <img width="970" height="647" alt="i3" src="https://github.com/user-attachments/assets/91e32d19-af63-444f-8118-ae831c092f61" />
 ## Enclosure
-
+<img width="980" height="693" alt="Image" src="https://github.com/user-attachments/assets/f9528b95-3220-4fbd-9149-30fee50230a4" />
 
 ---
 
