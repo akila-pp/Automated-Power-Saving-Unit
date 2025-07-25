@@ -1,5 +1,5 @@
 # Automated-Power-Saving-Unit
-Smart energy-saving project using IR sensors and Arduino to control power automatically.
+Smart energy-saving project using IR sensors and ATmega32 to control power automatically.
 # 🔌 Automated Power Saving Unit
 
 A smart energy-saving system that automatically cuts power to unused appliances using IR-based occupancy detection. Built to reduce power wastage in homes, labs, and offices.
